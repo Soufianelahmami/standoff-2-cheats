@@ -46,11 +46,11 @@
 },
   "my_data":[
 {"desc1":"Standoff 2, a popular FPS game, has triggered debates due to cheats and hacks. This article explores their impact on gameplay and the gaming   industry.","photo1":"https://iili.io/HyEG28N.jpg"},
-  {"desc2":"Competitive Edge or Unfair Play?": Explore the divisive topic of cheats within Standoff 2, the FPS sensation. Discover how cheats influence the balance of competition and camaraderie among players.","photo2":"https://iili.io/HyEG96v.jpg"},
-  {"desc3":"Gaming Under Fire: Standoff 2's Cheats": Uncover the ongoing debates as cheats infiltrate Standoff 2, a renowned FPS game. Investigate their implications for player experiences and the gaming industry's integrity.","photo3":"https://iili.io/HyEGdap.jpg"},
-  {"desc4":"Beyond the Screen: Cheats in Standoff 2": Venture into the virtual battlegrounds of Standoff 2 and learn about the controversial cheats altering the dynamics of gameplay. Get a glimpse of their wider impact on the gaming world.","photo4":"https://iili.io/HyEGJFR.jpg"},
-  {"desc5":"Fairness vs. Exploitation: Standoff 2's Cheats": Navigate the ethical complexities of cheats in Standoff 2, the FPS hit. Delve into discussions about whether cheats provide an advantage or ruin the gaming experience.","photo5":"https://iili.io/HyEMj72.jpg"},
-  {"descd":"Gaming's Dark Side: Standoff 2 Cheats Explained": Immerse yourself in the discourse over cheats in Standoff 2, a leading FPS title. Gain insights into how cheats disrupt fair competition and the industry's attempts to combat them.","photod":"https://iili.io/HyEMWg4.jpg"}
+  {"desc2":"Competitive Edge or Unfair Play?: Explore the divisive topic of cheats within Standoff 2, the FPS sensation. Discover how cheats influence the balance of competition and camaraderie among players.","photo2":"https://iili.io/HyEG96v.jpg"},
+  {"desc3":"Gaming Under Fire: Standoff 2's Cheats: Uncover the ongoing debates as cheats infiltrate Standoff 2, a renowned FPS game. Investigate their implications for player experiences and the gaming industry's integrity.","photo3":"https://iili.io/HyEGdap.jpg"},
+  {"desc4":"Beyond the Screen: Cheats in Standoff 2: Venture into the virtual battlegrounds of Standoff 2 and learn about the controversial cheats altering the dynamics of gameplay. Get a glimpse of their wider impact on the gaming world.","photo4":"https://iili.io/HyEGJFR.jpg"},
+  {"desc5":"Fairness vs. Exploitation: Standoff 2 s Cheats: Navigate the ethical complexities of cheats in Standoff 2, the FPS hit. Delve into discussions about whether cheats provide an advantage or ruin the gaming experience.","photo5":"https://iili.io/HyEMj72.jpg"},
+  {"descd":"Gaming s Dark Side: Standoff 2 Cheats Explained: Immerse yourself in the discourse over cheats in Standoff 2, a leading FPS title. Gain insights into how cheats disrupt fair competition and the industry s attempts to combat them.","photod":"https://iili.io/HyEMWg4.jpg"}
    ]
  
 }
